@@ -1,0 +1,15 @@
+{
+  "namespace": "mycomponent",
+  "fsNamespace": "mycomponent",
+  "loader": "../mycomponent.js",
+  "core": "mycomponent.ulm2ap87.js",
+  "corePolyfilled": "mycomponent.pgxifhn2.js",
+  "components": {
+    "my-timer": {
+      "bundleIds": {
+        "$": "jhb2znnp"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
